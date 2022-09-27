@@ -3,7 +3,7 @@ It was in my math homework (it just asked for the greatest), but I wondered if I
 The formula was:
 
 
-n(subscript 0) - n(subscript infinity) = n - 10x
+x(subscript 0) - x(subscript infinity) = n - 10y
 
 
-n = -8; x = the generation that n is on (the value that its subscript has).
+x = -8; y = the generation that n is on (the value that its subscript has).
