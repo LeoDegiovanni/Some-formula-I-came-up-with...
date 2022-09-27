@@ -4,4 +4,6 @@ The formula was:
 
 
 n(subscript 0) - n(subscript infinity) = n - 10x
+
+
 n = -8; x = the generation that n is on (the value that its subscript has).
